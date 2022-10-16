@@ -1,0 +1,10 @@
+.header{
+    background-color: rgb(95, 91, 88)
+
+    
+}
+.navlink{
+    justify-content: space-evenly;
+    gap: 4rem;
+    text-color: rgb(14, 187, 235);
+}
